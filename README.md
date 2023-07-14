@@ -8,16 +8,16 @@ Prilikom izrade sustava koristena je pripadajuca oprema s odgovarajucim interakt
 web suceljem. Tehnologija i oprema koristena prilikom rada na projektu je sljedeca te je
 podijeljena u dva dijela:
 
-*Hardverski dio:
-  1. Rasberry Pi 4
-  2. Raspberry Pi kamera
-  3. Dodatna oprema
+- Hardverski dio:
+    1. Rasberry Pi 4
+    2. Raspberry Pi kamera
+    3. Dodatna oprema
 
-*Softverski dio:
-  1.  Python programski jezik
-  2.  TensorFlow Lite
-  3.  Flask
-  4.  OpenCV
-  5.  Bootstrap
-  6.  Unix Shell
-  7.  Raspberry Pi OS
+- Softverski dio:
+    1.  Python programski jezik
+    2.  TensorFlow Lite
+    3.  Flask
+    4.  OpenCV
+    5.  Bootstrap
+    6.  Unix Shell
+    7.  Raspberry Pi OS
