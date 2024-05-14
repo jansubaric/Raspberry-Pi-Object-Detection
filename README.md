@@ -9,9 +9,9 @@ web suceljem. Tehnologija i oprema koristena prilikom rada na projektu je sljede
 podijeljena u dva dijela:
 
 + Hardverski dio:
-    1. Rasberry Pi 4
-    2. Raspberry Pi kamera
-    3. Dodatna oprema
+    + Rasberry Pi 4
+    + Raspberry Pi kamera
+    + Dodatna oprema
 
 + Softverski dio:
     1.  Python programski jezik
