@@ -15,7 +15,7 @@ web suceljem. Tehnologija i oprema koristena prilikom rada na projektu je sljede
 podijeljena u dva dijela:
 
 <p align="center">
-  <img align="center" width="500" height="300" src="https://i.postimg.cc/W1Txg2f1/358783038-1046020956572762-1906289841692374021-n.jpg">
+  <img align="center" width="500" height="350" src="https://i.postimg.cc/W1Txg2f1/358783038-1046020956572762-1906289841692374021-n.jpg">
 </p>
 
 
