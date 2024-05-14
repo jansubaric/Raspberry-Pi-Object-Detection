@@ -5,7 +5,7 @@ Cilj završnog projekta iz kolegija Programiranje ugradbenih sustava uključuje 
 
 
 ![pic](https://i.postimg.cc/wMFjzW1X/361081553-7040259486004540-8415589241710469645-n.png)
-<img src="https://i.postimg.cc/wMFjzW1X/361081553-7040259486004540-8415589241710469645-n.png" width="500" height="250">
+<img src="https://i.postimg.cc/wMFjzW1X/361081553-7040259486004540-8415589241710469645-n.png" width="800" height="600">
 
 ## Korištene tehnologije i alati 
 
