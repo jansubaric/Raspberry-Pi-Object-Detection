@@ -10,6 +10,8 @@ Cilj završnog projekta iz kolegija Programiranje ugradbenih sustava uključuje 
 
 ## Korištene tehnologije i alati 
 
+![pic](https://i.postimg.cc/W1Txg2f1/358783038-1046020956572762-1906289841692374021-n.jpg)
+
 Prilikom izrade sustava koristena je pripadajuca oprema s odgovarajucim interaktivnim
 web suceljem. Tehnologija i oprema koristena prilikom rada na projektu je sljedeca te je
 podijeljena u dva dijela:
@@ -20,11 +22,11 @@ podijeljena u dva dijela:
     + Dodatna oprema
 
 + Softverski dio:
-    1.  Python 
-    2.  TensorFlow Lite
-    3.  Flask
-    4.  OpenCV
-    5.  Bootstrap
-    6.  SQLite3 
-    7.  Unix Shell
-    8.  Raspberry Pi OS
+    +  Python 
+    +  TensorFlow Lite
+    +  Flask
+    +  OpenCV
+    +  Bootstrap
+    +  SQLite3 
+    +  Unix Shell
+    +  Raspberry Pi OS
