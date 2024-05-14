@@ -1,6 +1,6 @@
 # Raspberry Pi prepoznavanje objekata pomoću kamere
 
-Cilj završnog projekta iz kolegija Programiranje ugradbenih sustava ukljucuje razvoj opisanog sustava detekcije objekata pomocu Raspberry Pi razvojne plocice i pripadaju ce kamere. Pristup sustavu i pregled njegovih funkcija omogucen je preko interaktivnog web sucelja. Korisnik moze pristupiti sustavu preko web sucelja te pratiti detekciju objekata u stvarnom vremenu ili provjeriti dobivene rezultate prethodnih detekcija.
+Cilj završnog projekta iz kolegija Programiranje ugradbenih sustava ukljucuje razvoj opisanog sustava detekcije objekata pomocu Raspberry Pi razvojne plocice i pripadajuce kamere. Pristup sustavu i pregled njegovih funkcija omogucen je preko interaktivnog web sucelja. Korisnik moze pristupiti sustavu preko web sucelja te pratiti detekciju objekata u stvarnom vremenu ili provjeriti dobivene rezultate prethodnih detekcija.
 
 ## Korištene tehnologije i alati 
 
